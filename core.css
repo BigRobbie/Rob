@@ -1,10 +1,10 @@
 :root{
-     --background: url('');
-     --activetext-colour: white;
- 
-     --primary1-colour: red;
-     --primary2-colour: rgba(255,0,0,0.5);
-     --primary3-colour: rgba(100,0,0,0.6);
+    --background: url('https://cdn.discordapp.com/attachments/1118103123534286960/1241682900458405969/ee47d0b652edfe4c678a13c389dce48a.jpg?ex=664b16d0&is=6649c550&hm=19f9b45466f82eca90777a12759b3a7c0189c94aff32834e0fde5de6201ba04e&');
+    --activetext-colour: white;
+
+    --primary1-colour: rgb(81, 0, 128);
+    --primary2-colour: rgba(89, 0, 255, 0.5);
+    --primary3-colour: rgba(35, 0, 100, 0.6);
  
      --secondary1-colour: rgba(50,50,50,0.3);
      --secondary2-colour: rgba(100,100,100,0.5);
@@ -20,7 +20,7 @@
  /*
  Theme Owned and Made by VaporousCreeper#9514
    
- Background Img: 
+ Background Img: https://wpblink.com/sites/default/files/wallpaper/anime/66761/sword-art-online-ii-wallpapers-hd-66761-327252.png 
  Transparency2 Module: https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css - By Ruben7173#5048
  
  The 2 items above are not owned by me, They go to there respected owners 
