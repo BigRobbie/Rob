@@ -10,7 +10,7 @@
 @import url('https://raw.githubusercontent.com/BigRobbie/Rob/main/core.css');
 
 :root{
-    --background: url('https://media.discordapp.net/attachments/1118103123534286960/1241682900458405969/ee47d0b652edfe4c678a13c389dce48a.jpg?ex=666e0690&is=666cb510&hm=23bc4738d83ffb2b9e5b2cafae9fa06681084855ab8973c86cc9ca0fd3077d5b&=&format=webp');
+    --background: url('https://cdn.discordapp.com/attachments/1118103123534286960/1241682900458405969/ee47d0b652edfe4c678a13c389dce48a.jpg?ex=666e0690&is=666cb510&hm=23bc4738d83ffb2b9e5b2cafae9fa06681084855ab8973c86cc9ca0fd3077d5b&');
     --activetext-colour: white;
 
     --primary1-colour: rgb(81, 0, 128);
